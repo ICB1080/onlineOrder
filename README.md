@@ -1,2 +1,2 @@
 # onlineOrder
-An online ordering system built with React and Spring.
+Backend for an online order system built with Spring and Hibernate.
